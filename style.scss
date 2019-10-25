@@ -1,2 +1,8 @@
 $color1: #ffffff;
 $color2: #FFCFCF;
+
+html, body {
+  margin: 0;
+  font-family: Arial;
+  color: $color1;
+}

@@ -27,3 +27,15 @@ ul {
   padding-left: 30px;
 
 .nav {
+  width: 15%;
+  min-width: 140px;
+  color: $color2;
+  padding-top: 55px;
+  padding-right: 30px;
+  text-align: center;
+  .nav h4 {
+  -webkit-margin-before: 0;
+  margin-left: 50px;
+    }
+ }
+}
